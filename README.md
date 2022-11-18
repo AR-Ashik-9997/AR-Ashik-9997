@@ -3,7 +3,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/AR-Ashik-9997/AR-Ashik-9997/main/bg.png" alt="cover" />
 </div>
  
-<h1 align="center">Hi <img src = "" width="50px" height="50px">, I'm Ashik</h1>  
+<h1 align="center">Hi <img src = "https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/hi.gif?raw=true" width="50px" height="50px">, I'm Ashik</h1>  
 <h3 align="center">A passionate Web Developer from BD</h3> 
 <br> 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ashik-9997&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ar-ashik-9997" /></p>
@@ -41,7 +41,7 @@
    <p align="center"><img align="center" alt="AR-Ashik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ar-ashik-9997&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
   <br>
 
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+![Waves](https://raw.githubusercontent.com/AR-Ashik-9997/AR-Ashik-9997/f78fafacb752970d5fd5253b726a0ec6bbbe676a/wave.svg)
 
 
 
