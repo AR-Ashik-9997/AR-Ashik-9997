@@ -13,12 +13,12 @@
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 
-- 🔭 I’m currently working on https://playerorbit.com/)
+- 🔭 I’m currently working on https://playerorbit.com/
 - Talk to me about React, Node.
 
 - 🌱 I’m currently learning **Nodejs, Express**
 
-- I’m looking collaborate on [Online Delivery Services](https://delivery-services-a1363.web.app/)
+- I’m looking collaborate on [WIWAXIA Social project]
 
 - 📫 How to reach me **ashikur.rahman9997@gmail.com**
 
