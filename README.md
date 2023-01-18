@@ -40,13 +40,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</p> 
-  <br>
-  <h2>My Github Stats 
-  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-ashik-9997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ar-ashik-9997" /></p>
-   <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-ashik-9997&show_icons=true&locale=en&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="ar-ashik-9997" /></p></h2>
-   <br>
-   <p align="center"><img align="center" alt="AR-Ashik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ar-ashik-9997&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
+</p>  
   <br>
 
 ![Waves](https://raw.githubusercontent.com/AR-Ashik-9997/AR-Ashik-9997/f78fafacb752970d5fd5253b726a0ec6bbbe676a/wave.svg)
