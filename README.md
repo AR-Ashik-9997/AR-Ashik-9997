@@ -32,14 +32,16 @@
 <br>   
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/HTML.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/css.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/JavaScript.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/react.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/typescript.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/tailwind.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/Bootsrap.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/node.png"/>
+<img src="https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/icons/express.png"/>
+
 </p>  
   <br>
 
