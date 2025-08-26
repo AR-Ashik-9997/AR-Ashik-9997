@@ -8,7 +8,7 @@
 <br> 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ashik-9997&" alt="ar-ashik-9997" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-ashik-9997&show_icons=true&locale=en" alt="ar-ashik-9997" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-ashik-9997&show_icons=true&locale=en&layout=compact" alt="ar-ashik-9997" /></p>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
