@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src = "https://github.com/AR-Ashik-9997/AR-Ashik-9997/blob/main/hi.gif?raw=true" width="50px" height="50px">, I'm Ashik</h1>  
 <h3 align="center">A passionate Web Developer from BD</h3> 
 <br> 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ashik-9997&" alt="ar-ashik-9997" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ar-ashik-9997&" alt="ar-ashik-9997" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-ashik-9997&show_icons=true&locale=en&layout=compact" alt="ar-ashik-9997" /></p>
 
