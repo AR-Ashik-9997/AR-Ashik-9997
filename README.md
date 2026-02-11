@@ -52,7 +52,7 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,linux,github" alt="cloud stack" /></p>
 
-**MachineData Science & Machine Learning**
+**Data Science & Machine Learning**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" alt="machine learning" /></p>
 
