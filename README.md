@@ -38,13 +38,13 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 **Frontend**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,scss,tailwind,Django" alt="frontend stack" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,django,redux,scss,tailwind,django" alt="frontend stack" /></p>
 
 **Backend & APIs**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,supabase" alt="backend stack" /></p>
 
-**Data & Search**
+**Database**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,MySql" alt="data stack" /></p>
 
@@ -52,8 +52,11 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,linux,github" alt="cloud stack" /></p>
 
-**Automation & Tooling**
+**MachineData Science & Machine Learning**
 
+<p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" alt="machine learning" /></p>
+
+**Automation & Tooling**
 - Postman, CI/CD
 - Design/Collab: Figma, VS Code, JetBrains, jupyter, google Colab
 
