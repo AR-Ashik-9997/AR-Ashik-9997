@@ -25,7 +25,7 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 ## At a Glance
 
-- ⭐ **Highlights:** `SaaS/AI` (4+ yrs) · `Full-stack` (React/Next/Django· Node/Nest/Fastify/FastAPI). `Data/Search` (Postgres/Mongo/MySql).
+- ⭐ **Highlights:** `SaaS/AI` (4+ yrs) · `Full-stack` (React/Next/Django· Node/FastAPI). `Database` (Postgres/Mongo/MySql).
 - 🎯 **Current Focus:** `ML model development` · `Data preprocessing & EDA` · `Feature engineering` · `Predictive modeling` · `ML pipeline automation` · `Model evaluation & optimization` · `Deploying ML-powered applications`.
 
 ---
