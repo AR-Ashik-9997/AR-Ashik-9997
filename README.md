@@ -46,7 +46,7 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 **Database**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,MySql" alt="data stack" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="data stack" /></p>
 
 **Cloud & DevOps**
 
