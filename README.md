@@ -66,10 +66,10 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 ---
 
 ## GitHub Activity
-<div align="center">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AR-Ashik-9997&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AR-Ashik-9997&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+</p
 
 <p align="center">
   <a href="https://github.com/AR-Ashik-9997" target="_blank" rel="noopener noreferrer">
