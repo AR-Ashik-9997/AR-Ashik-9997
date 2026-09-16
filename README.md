@@ -34,11 +34,11 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 **Core**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,c" alt="core stack" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=ts,js,python,php" alt="core stack" /></p>
 
 **Frontend**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,django,redux,scss,tailwind,django" alt="frontend stack" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,scss,tailwind,django" alt="frontend stack" /></p>
 
 **Backend & APIs**
 
@@ -46,7 +46,7 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 **Database**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,MySql" alt="data stack" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,MySql" alt="data stack" /></p>
 
 **Cloud & DevOps**
 
@@ -54,7 +54,7 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 **Data Science & Machine Learning**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" alt="machine learning" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch" alt="machine learning" /></p>
 
 **Automation & Tooling**
 - Postman, CI/CD
