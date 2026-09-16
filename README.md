@@ -32,23 +32,22 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 ## Toolbox
 
-**Core**
+**Languages & Core**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=ts,js,python,php" alt="core stack" /></p>
 
-**Languages & Core**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frontend**
+ 
+**Frontend** 
 
 <p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,scss,tailwind,django" alt="frontend stack" /></p>
 
 **Backend & APIs**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,supabase" alt="backend stack" /></p>
+
+**Data Science & Machine Learning**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch" alt="machine learning" /></p>
 
 **Database**
 
@@ -58,9 +57,7 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,linux,github" alt="cloud stack" /></p>
 
-**Data Science & Machine Learning**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch" alt="machine learning" /></p>
 
 **Automation & Tooling**
 - Postman, CI/CD
@@ -69,10 +66,6 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 ---
 
 ## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AR-Ashik-9997&bg_color=ffffff&color=333333&line=667eea&point=667eea&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-</p>
 
 <p align="center">
   <a href="https://github.com/AR-Ashik-9997" target="_blank" rel="noopener noreferrer">
