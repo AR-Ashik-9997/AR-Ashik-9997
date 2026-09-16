@@ -17,6 +17,10 @@
   <a href="mailto:ashikur.rahman9997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AR-Ashik-9997&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</p
+
 ## About
 
 Full-Stack Developer with 4+ years of experience delivering production-ready applications. Currently focused on Machine Learning Engineering, building scalable and data-driven intelligent systems.
@@ -66,11 +70,6 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 ---
 
 ## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AR-Ashik-9997&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p
-
 <p align="center">
   <a href="https://github.com/AR-Ashik-9997" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR-Ashik-9997&theme=default" alt="Profile Summary" width="100%">
