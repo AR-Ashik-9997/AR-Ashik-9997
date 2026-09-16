@@ -66,6 +66,9 @@ Full-Stack Developer with 4+ years of experience delivering production-ready app
 ---
 
 ## GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AR-Ashik-9997&bg_color=ffffff&color=333333&line=667eea&point=667eea&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/AR-Ashik-9997" target="_blank" rel="noopener noreferrer">
